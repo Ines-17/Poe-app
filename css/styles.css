@@ -1,0 +1,194 @@
+#title, html {
+  background-color: #e6e6e6;
+}
+
+#footer {
+  background-color: #e6e6e6;
+}
+
+#cta {
+  padding: 50px 20px 10px;
+  background-color: #e6e6e6;
+}
+
+#priceing {
+  padding: 100px;
+  text-align: center;
+}
+
+#features {
+  padding: 7% 15%;
+}
+
+#testimonials {
+  background-color: #d0e8f2;
+  color: #456268;
+}
+
+#press {
+  background-color: #d0e8f2;
+}
+
+#title .navbar-brand {
+  color: #393e46;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #393e46;
+}
+
+p {
+  color: #389393;
+}
+
+q {
+  font-size: 1.7rem;
+  color: #000000;
+}
+
+.btn-left {
+  text-align: left;
+}
+
+.poems {
+  margin-top: 10px;
+  line-height: 1.5;
+  letter-spacing: 0.1rem;
+  font-size: 1.8rem;
+  font-family: 'Indie Flower', cursive;
+  padding: 0 120px;
+}
+
+.top {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 2.8rem;
+  line-height: 1.5;
+  font-weight: bold;
+  color: #393e46;
+  letter-spacing: 0.2rem;
+}
+
+.poe {
+  border-radius: 100%;
+  height: 250px;
+  width: 250px;
+}
+
+@media (min-width: 1025px) {
+  .poe {
+    margin-left: 300px;
+  }
+}
+
+@media (max-width: 1025px) {
+  .first, .imgs, .btn-left {
+    text-align: center;
+  }
+}
+
+@media (max-width: 1025px) {
+  .poems {
+    padding: 0 30px;
+  }
+}
+
+.price-column {
+  padding: 3% 2%;
+}
+
+.price-title {
+  margin-bottom: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color: #335d2d;
+}
+
+.card-header {
+  background-color: #d0e8f2;
+  height: 150px;
+}
+
+.down-btn {
+  margin: 20px;
+}
+
+.container-fluid {
+  padding: 3% 5%;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+}
+
+.d-btn {
+  margin: 10px 20px 20px 0;
+  text-align: left;
+}
+
+.features {
+  padding: 5%;
+}
+
+.name {
+  margin: 10px 10px;
+  font-weight: 500;
+}
+
+.icon {
+  color: #335d2d;
+  padding: 1rem;
+}
+
+.icon:hover {
+  color: #7ea04d;
+}
+
+.end {
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+
+.carousel-item {
+  padding: 7% 5% 0;
+}
+
+.imgs {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+  margin-top: 20px;
+}
+
+.logo-img {
+  width: 15%;
+  margin: 20px 20px 15px;
+}
+
+.footer-icon {
+  padding: 10px 20px 30px;
+  font-size: 2rem;
+}
